@@ -1,6 +1,3 @@
-Here’s a complete and properly formatted `README.md` file for your project:
-
-```markdown
 # Face Recognition Application
 
 This project is a simple face recognition application built using **Node.js**, **HTML**, **JavaScript**, and **FaceAPI.js** with pre-trained models. It identifies and matches faces in images uploaded by the user and compares them to stored images.
@@ -37,7 +34,6 @@ This project is a simple face recognition application built using **Node.js**, *
 ```bash
 git clone https://github.com/Gaurav-Coder7102/Face-Recognition-System.git
 cd Face-Recognition-System
-```
 
 ### **Step 2: Install Dependencies**
 Install the required dependencies for running the project:
