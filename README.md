@@ -36,6 +36,6 @@ git clone https://github.com/Gaurav-Coder7102/Face-Recognition-System.git
 cd Face-Recognition-System
 
 ### **Step 2: Install Dependencies**
-```bash
-npm install -g http-server
+
+
 
