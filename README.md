@@ -7,17 +7,10 @@ Features
     • Matches the uploaded image with a database of employee images. 
     • Displays whether a match was found or not. 
     • Simple and interactive user interface. 
-    • Powered by FaceAPI.js, a lightweight and flexible JavaScript library for face detection and recognition. 
+    • Powered by FaceAPI.js, a lightweight and flexible JavaScript library for face detection and recognition.
+    
+![image](https://github.com/user-attachments/assets/0c0e6eb6-3b06-4147-ae23-cf0214f1f73c)
 
-Project Structure
-face-recognition-app/
-├── models/                  # Pre-trained models for FaceAPI.js
-├── js/
-│   └── app.js               # Main JavaScript file for the application logic
-├── index.html               # Main HTML file for the UI
-├── package.json             # Node.js package metadata
-├── README.md                # Project documentation
-└── styles.css               # (Optional) Styles for UI customization
 
 Requirements
 Prerequisites:
